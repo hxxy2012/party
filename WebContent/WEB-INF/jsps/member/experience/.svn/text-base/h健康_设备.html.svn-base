@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0;">
+<title>健康设备</title>
+<link rel="stylesheet" type="text/css" href="css/css.css" />
+</head>
+<body>
+
+
+
+
+
+<div class="jksb_list">
+  
+	<ul >
+    	<li>
+			<a href="#">
+				<div>
+					<span class="s_icon jc_1"></span>电子血压计
+					<p class="sb_g">最新数据：血压100/70(mmHg)<p>
+					<!--<p class="sb_w">最新数据：血压100/70(mmHg)<p>-->
+				</div>
+           	</a>
+		</li>
+		
+		<li>
+			<a href="#">
+				<div>
+					<span class="s_icon jc_2"></span>脉搏血氧仪
+					<p class="sb_g">最新数据：血氧98/61(%/dpm)<p>
+					<!--<p class="sb_w">最新数据：血压100/70(%/dpm)<p>-->
+				</div>
+           	</a>
+		</li>
+		
+		<li>
+			<a href="#">
+				<div>
+					<span class="s_icon jc_3"></span>血糖仪
+					<p class="sb_g">最新数据：血糖98/61(mmol/L)<p>
+					<!--<p class="sb_w">最新数据：血压100/70(%/dpm)<p>-->
+				</div>
+           	</a>
+		</li>
+		
+		<li>
+			<a href="#">
+				<div>
+					<span class="s_icon jc_4"></span>电子健康秤
+					<p class="sb_g">最新数据：体重45kg)<p>
+					<!--<p class="sb_w">最新数据：血压100/70(%/dpm)<p>-->
+				</div>
+           	</a>
+		</li>
+      
+        
+       
+        
+      
+    </ul>
+
+</div><!--社区活动结束-->
+
+
+
+
+
+
+</body>
+</html>

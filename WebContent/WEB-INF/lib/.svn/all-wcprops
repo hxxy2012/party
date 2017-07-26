@@ -1,0 +1,935 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/01-Project/!svn/ver/3421/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib
+END
+transactions.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/transactions.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jta.jar
+END
+commons-io-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-io-1.3.2.jar
+END
+ehcache-spring-annotations-1.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ehcache-spring-annotations-1.2.0.jar
+END
+org.springframework.aspects-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.aspects-3.0.6.RELEASE.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar
+END
+cglib-nodep-2.1_3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/cglib-nodep-2.1_3.jar
+END
+ehcache-core-2.4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ehcache-core-2.4.5.jar
+END
+mysql-connector-java-5.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/mysql-connector-java-5.1.6.jar
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/slf4j-api-1.5.6.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/asm-3.1.jar
+END
+xstream-1.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/3421/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/xstream-1.3.1.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/slf4j-api-1.5.8.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar
+END
+cos-multipart.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/cos-multipart.jar
+END
+commons-fileupload-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-fileupload-1.2.jar
+END
+tenpay.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/tenpay.jar
+END
+org.springframework.web.servlet-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.web.servlet-3.0.6.RELEASE.jar
+END
+slf4j-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/slf4j-api.jar
+END
+oscore-2.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/oscore-2.2.4.jar
+END
+transactions-jdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/transactions-jdbc.jar
+END
+of-cas-client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/of-cas-client.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/asm.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/activation-1.1.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jstl.jar
+END
+org.springframework.core-3.0.6.RELEASE.modified.jar
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.core-3.0.6.RELEASE.modified.jar
+END
+quartz-1.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/quartz-1.6.0.jar
+END
+sqljdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/sqljdbc4.jar
+END
+ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ojdbc14.jar
+END
+slf4j-simple-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/slf4j-simple-1.5.6.jar
+END
+fckeditor-java-core-2.4.1-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/fckeditor-java-core-2.4.1-javadoc.jar
+END
+jsoup-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jsoup-1.5.2.jar
+END
+json-lib-2.3-jdk15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/json-lib-2.3-jdk15.jar
+END
+org.springframework.context.support-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.context.support-3.0.6.RELEASE.jar
+END
+jackson-mapper-asl-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jackson-mapper-asl-1.5.1.jar
+END
+junit-4.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/junit-4.4.jar
+END
+yanf4j-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/yanf4j-1.0.1.jar
+END
+saaj-impl-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/saaj-impl-1.3.jar
+END
+jackson-mapper-asl-1.5.1.modified.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jackson-mapper-asl-1.5.1.modified.jar
+END
+mail-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/mail-1.4.1.jar
+END
+freemarker2.3.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/freemarker2.3.18.jar
+END
+slf4j-log4j12-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/slf4j-log4j12-1.5.6.jar
+END
+slf4j-nop.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/slf4j-nop.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+geronimo-j2ee-connector_1.5_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-j2ee-connector_1.5_spec-1.0.jar
+END
+dubbo-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/dubbo-2.2.1.jar
+END
+geronimo-jms_1.1_spec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-jms_1.1_spec.jar
+END
+emayclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/emayclient.jar
+END
+jstl-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jstl-1.1.2.jar
+END
+alipay3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/alipay3.2.jar
+END
+rife-continuations-0.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/rife-continuations-0.0.2.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/log4j-1.2.15.jar
+END
+mysql-jdbc-5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/mysql-jdbc-5.1.jar
+END
+struts2-core-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/struts2-core-2.1.8.1.jar
+END
+alipaydirect.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/alipaydirect.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/mail.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/standard.jar
+END
+transactions-osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/transactions-osgi.jar
+END
+snf-lang-2.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/snf-lang-2.0.7.jar
+END
+spring-2.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/spring-2.5.5.jar
+END
+commons-httpclient-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-httpclient-3.0.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/cglib-2.2.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/xercesImpl.jar
+END
+commons-pool-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-pool-1.6.jar
+END
+org.springframework.core-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.core-3.0.6.RELEASE.jar
+END
+geronimo-jta_1.0.1B_spec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-jta_1.0.1B_spec.jar
+END
+db2jcc-9.7.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/db2jcc-9.7.0.3.jar
+END
+httpcore-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/httpcore-4.1.2.jar
+END
+jencks-1.3-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jencks-1.3-all.jar
+END
+org.springframework.web-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.web-3.0.6.RELEASE.jar
+END
+org.springframework.instrument-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.instrument-3.0.6.RELEASE.jar
+END
+commons-codec-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-codec-1.4.jar
+END
+commons-dbcp-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-dbcp-1.2.2.jar
+END
+jedis-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jedis-2.0.0.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-lang-2.4.jar
+END
+ezmorph-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ezmorph-1.0.4.jar
+END
+transactions-jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/transactions-jta.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-lang-2.6.jar
+END
+org.springframework.transaction-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.transaction-3.0.6.RELEASE.jar
+END
+ezmorph-1.0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar
+END
+org.springframework.web.portlet-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.web.portlet-3.0.6.RELEASE.jar
+END
+memcached-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/memcached-2.5.jar
+END
+jmock-2.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jmock-2.5.1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+geronimo-j2ee-jacc_1.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-j2ee-jacc_1.0_spec-1.0.jar
+END
+commons-net-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-net-1.4.1.jar
+END
+standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/standard-1.1.2.jar
+END
+apache-activemq-4.1.0-incubator.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/apache-activemq-4.1.0-incubator.jar
+END
+acct-api-1.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/acct-api-1.0-SNAPSHOT.jar
+END
+org.springframework.orm-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.orm-3.0.6.RELEASE.jar
+END
+hamcrest-core-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/hamcrest-core-1.1.jar
+END
+org.springframework.context-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.context-3.0.6.RELEASE.jar
+END
+jackson-core-asl-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jackson-core-asl-1.5.1.jar
+END
+apache-mime4j-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/apache-mime4j-0.6.jar
+END
+httpclient-cache-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/httpclient-cache-4.1.2.jar
+END
+hamcrest-library-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/hamcrest-library-1.1.jar
+END
+geronimo-j2ee-management_1.0_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-j2ee-management_1.0_spec-1.0.jar
+END
+easymock-2.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/easymock-2.5.2.jar
+END
+jdom-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jdom-1.1.jar
+END
+xbean-spring-2.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/xbean-spring-2.7.jar
+END
+httpclient-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/httpclient-4.1.2.jar
+END
+org.springframework.test-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.test-3.0.6.RELEASE.jar
+END
+freemarker-2.3.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/freemarker-2.3.16.jar
+END
+org.springframework.aop-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.aop-3.0.6.RELEASE.jar
+END
+freemarker-2.3.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/freemarker-2.3.18.jar
+END
+yuicompressor-2.4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/yuicompressor-2.4.6.jar
+END
+fckeditor-java-core-2.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/fckeditor-java-core-2.4.1.jar
+END
+struts2-spring-plugin-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/struts2-spring-plugin-2.1.8.1.jar
+END
+commons-beanutils-1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-beanutils-1.8.1.jar
+END
+geronimo-jms_1.1_spec-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-jms_1.1_spec-1.0.jar
+END
+org.springframework.jms-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.jms-3.0.6.RELEASE.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/servlet-api.jar
+END
+xwork-core-2.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/xwork-core-2.1.6.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-io-1.4.jar
+END
+ant-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ant-1.7.0.jar
+END
+poi-3.7-20101029.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/poi-3.7-20101029.jar
+END
+ehcache-core-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ehcache-core-1.7.1.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/javassist-3.15.0-GA.jar
+END
+transactions-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/transactions-api.jar
+END
+Oracle_10g_10.2.0.4_JDBC_ojdbc14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/Oracle_10g_10.2.0.4_JDBC_ojdbc14.jar
+END
+org.springframework.oxm-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.oxm-3.0.6.RELEASE.jar
+END
+struts2-convention-plugin-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/struts2-convention-plugin-2.1.8.1.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar
+END
+acct-client-1.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/acct-client-1.0-SNAPSHOT.jar
+END
+xmemcached-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/xmemcached-1.2.1.jar
+END
+httpmime-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/httpmime-4.1.2.jar
+END
+org.springframework.jdbc-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.jdbc-3.0.6.RELEASE.jar
+END
+snf-lang-2.0.7-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/snf-lang-2.0.7-sources.jar
+END
+ognl-2.6.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ognl-2.6.11.jar
+END
+org.springframework.instrument.tomcat-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.instrument.tomcat-3.0.6.RELEASE.jar
+END
+org.springframework.web.struts-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.web.struts-3.0.6.RELEASE.jar
+END
+commons-fileupload-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar
+END
+jmagick-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jmagick-1.0.jar
+END
+jmock-junit4-2.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jmock-junit4-2.5.1.jar
+END
+uploadbean.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/uploadbean.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/log4j-1.2.16.jar
+END
+aspectjweaver-1.6.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/aspectjweaver-1.6.2.jar
+END
+ant-launcher-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/ant-launcher-1.7.0.jar
+END
+atomikos-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/atomikos-util.jar
+END
+jftp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/jftp.jar
+END
+xml-apis-1.3.03.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/xml-apis-1.3.03.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/aopalliance.jar
+END
+netty-3.2.5.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/netty-3.2.5.Final.jar
+END
+org.springframework.asm-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.asm-3.0.6.RELEASE.jar
+END
+spring-2.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/spring-2.5.6.jar
+END
+geronimo-j2ee-connector_1.5_spec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/geronimo-j2ee-connector_1.5_spec.jar
+END
+org.springframework.beans-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.beans-3.0.6.RELEASE.jar
+END
+org.springframework.expression-3.0.6.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/org.springframework.expression-3.0.6.RELEASE.jar
+END
+commons-pool-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-pool-1.3.jar
+END
+commons-beanutils-1.7.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar
+END
+guava-r09.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/guava-r09.jar
+END
+oscache-2.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/oscache-2.4.1.jar
+END
+transactions-jdbc-deprecated.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/transactions-jdbc-deprecated.jar
+END
+acct-domain-1.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/acct-domain-1.0-SNAPSHOT.jar
+END
+activemq-ra-4.1.0-incubator.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/01-Project/!svn/ver/2182/03-SheQu/02-%E4%BB%A3%E7%A0%81/zhsq/Weixin/WebContent/WEB-INF/lib/activemq-ra-4.1.0-incubator.jar
+END
